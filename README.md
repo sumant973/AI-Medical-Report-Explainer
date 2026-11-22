@@ -96,11 +96,4 @@ GitHub: https://github.com/sumant973
 ### 1. Home Page
 ![Home Page](Screenshot%202026-11-22%20222248.png)
 
-### 2. Blood Test Analysis
-![Blood Test Analysis](Screenshot 2 filename)
 
-### 3. AI Medical Report Explanation
-![AI Explanation](Screenshot 3 filename)
-
-### 4. Download Medical Report PDF
-![PDF Download](Screenshot 4 filename)
