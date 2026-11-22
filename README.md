@@ -90,3 +90,8 @@ B.Tech Computer Science and Engineering
 MIT ADT University, Pune
 
 GitHub: https://github.com/sumant973
+
+## Application Screenshots
+
+### 1. Home Page
+![Home Page](Screenshot%202026-11-22%20222248.png)
